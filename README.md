@@ -2,6 +2,8 @@
 
 **2012 SUNY TYESA Student Design Competition - 2nd Place Finish**
 
+![Line Follower Robot](linefollower1.png)
+
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Arduino-green.svg)
 ![Language](https://img.shields.io/badge/language-C%2B%2B-blue.svg)
