@@ -20,6 +20,8 @@ An Arduino-based autonomous line following robot that competed in the 2012 SUNY 
 
 This line follower robot was designed as a multidisciplinary engineering project focusing on autonomous navigation, real-time control systems, and custom hardware development. The robot demonstrates advanced features typically found in much more complex systems, including wireless parameter tuning and sophisticated sensor integration.
 
+![Competition Track Layout](linefollower4.jpg)
+(Image Above: Competition Track Layout)
 ### Key Features
 
 - **PID Control Algorithm**: Smooth and responsive line following with real-time parameter adjustment
