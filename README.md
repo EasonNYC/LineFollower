@@ -198,13 +198,6 @@ This project served as a foundation for future robotics work:
 - **Leadership Experience**: Team management skills utilized later in professional career
 - **Problem-Solving Approach**: Crisis management techniques applied throughout engineering career
 
-## 🔗 Related Projects
-
-This line follower robot was part of a progression of increasingly sophisticated projects:
-- **Previous**: [Wireless NES Controller](https://github.com/EasonNYC/wirelessNES) - RF communication fundamentals
-- **Next**: [NASA Lunar Mining Robot](http://www.easonrobotics.com/?portfolio=nasa-lunar-mining-robot) - Advanced autonomous systems
-- **Advanced**: [NYU CubeSAT](https://github.com/EasonNYC/NYUSat) - Space-grade embedded systems
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
